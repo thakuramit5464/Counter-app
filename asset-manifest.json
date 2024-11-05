@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thakuramit5464/Counter-app/static/css/main.7fa6d293.css",
+    "main.js": "/thakuramit5464/Counter-app/static/js/main.22f20245.js",
+    "static/js/453.c525d7c0.chunk.js": "/thakuramit5464/Counter-app/static/js/453.c525d7c0.chunk.js",
+    "index.html": "/thakuramit5464/Counter-app/index.html",
+    "main.7fa6d293.css.map": "/thakuramit5464/Counter-app/static/css/main.7fa6d293.css.map",
+    "main.22f20245.js.map": "/thakuramit5464/Counter-app/static/js/main.22f20245.js.map",
+    "453.c525d7c0.chunk.js.map": "/thakuramit5464/Counter-app/static/js/453.c525d7c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fa6d293.css",
+    "static/js/main.22f20245.js"
+  ]
+}
